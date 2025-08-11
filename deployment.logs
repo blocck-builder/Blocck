@@ -1,0 +1,13 @@
+nv file path with { path: '/custom/path/.env' })
+Deploying contracts with the account: 0xE7cA2CFC5651cbb283b2EB658C8331541cBA7118
+Account balance: 0.1
+Blocck deployed to: 0x11903dF8e4a5c08cBC25a5efd7207F4A990beA7f
+Token name: Blocck
+Token symbol: BLOCCK
+Total supply: 1000000.0
+Max supply: 1000000.0
+
+Deployment verification:
+- Contract is upgradeable: 0xEfD8041bA1e28A0d9f90eCb6d6DB65EeD5907Ed7
+- Wallet balance: 1000000.0
+Aloysiuss-MacBook-Pro-2:meme3 aloysiuslim$ 
